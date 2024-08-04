@@ -6,7 +6,7 @@
         desafio que aparece no meu caminho! 💻✨
 </p>
     <div align="center">
-      <img style="border-radius:10px;"src="https://media1.tenor.com/m/MP1J--e_nMQAAAAC/studio-ghibli-my-neighbor-totoro.gif" />
+      <img style="border: 2px solid black;" src="https://media1.tenor.com/m/MP1J--e_nMQAAAAC/studio-ghibli-my-neighbor-totoro.gif" />
     <div/>
       
 <div align="center">
@@ -64,8 +64,4 @@
     </div>
     <div align="center">
         <img src="https://profile-readme-generator.com/assets/snake.svg" alt="cobra" width="50%">
-        <iframe style="border-radius:12px"
-            src="https://open.spotify.com/embed/playlist/37i9dQZF1DXbjpNmyCn1gC?utm_source=generator&theme=0"
-            width="25%" height="152" frameBorder="0" allowfullscreen=""
-            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
     </div>
